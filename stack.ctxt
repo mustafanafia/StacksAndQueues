@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=stack
+comment1.params=a
+comment1.target=void\ enQueue(int)
+comment2.params=
+comment2.target=java.lang.Integer\ deQueue()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
